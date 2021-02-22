@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/flowers-rolodex/static/css/main.615784ce.chunk.css",
+    "main.js": "/flowers-rolodex/static/js/main.efa8900b.chunk.js",
+    "main.js.map": "/flowers-rolodex/static/js/main.efa8900b.chunk.js.map",
+    "runtime-main.js": "/flowers-rolodex/static/js/runtime-main.ee210dbd.js",
+    "runtime-main.js.map": "/flowers-rolodex/static/js/runtime-main.ee210dbd.js.map",
+    "static/js/2.daf95606.chunk.js": "/flowers-rolodex/static/js/2.daf95606.chunk.js",
+    "static/js/2.daf95606.chunk.js.map": "/flowers-rolodex/static/js/2.daf95606.chunk.js.map",
+    "static/js/3.cfed0851.chunk.js": "/flowers-rolodex/static/js/3.cfed0851.chunk.js",
+    "static/js/3.cfed0851.chunk.js.map": "/flowers-rolodex/static/js/3.cfed0851.chunk.js.map",
+    "index.html": "/flowers-rolodex/index.html",
+    "static/css/main.615784ce.chunk.css.map": "/flowers-rolodex/static/css/main.615784ce.chunk.css.map",
+    "static/js/2.daf95606.chunk.js.LICENSE.txt": "/flowers-rolodex/static/js/2.daf95606.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee210dbd.js",
+    "static/js/2.daf95606.chunk.js",
+    "static/css/main.615784ce.chunk.css",
+    "static/js/main.efa8900b.chunk.js"
+  ]
+}
